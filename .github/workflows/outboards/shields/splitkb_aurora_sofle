@@ -1,0 +1,5 @@
+outboard_repository=PandaKBLab/sofle-j-keyboard-zmk
+outboard_ref=main
+outboard_from=config/boards/arm/sofle
+outboard_to=boards/shields/sofle_rgb
+
